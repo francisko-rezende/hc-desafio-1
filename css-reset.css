@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --color-light: #e7eefb;
+    --color-red: #b9000b;
+}
+
+body,
+h1,
+h2,
+h3,
+figure {
+    margin: 0;
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-weight: 500;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+    font-weight: inherit;
+}
